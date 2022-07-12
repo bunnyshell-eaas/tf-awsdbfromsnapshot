@@ -1,2 +1,4 @@
-# tf-awsdbfromsnapshot
-Example on how to create a new RDS instance from a DB snapshot in AWS.
+# Bunnyshell Terraform Create RDS Database from Snapshot
+Module that will create a new DB from the latest AWS snapshot.
+
+Please use this as a proof of concept!
